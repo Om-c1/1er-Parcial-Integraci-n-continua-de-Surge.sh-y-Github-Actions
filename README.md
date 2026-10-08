@@ -16,4 +16,4 @@ c) crear el directorio y archivo yml de github actions (.github/workflows/main.y
 
 Nota: Debe agregar un secret en github para no exponer su clave de surge.su publicamente.
 
-Enlace Surge: 1er-Parcial-electiva2.surge.sh
+Enlace Surge: https://1er-parcial-electiva2.surge.sh/
